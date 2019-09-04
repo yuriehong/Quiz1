@@ -2,6 +2,6 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [Read-Me](#read-me)
-* [CSV](#CSV)
+* [Read-Me]
+* [CSV]
   
